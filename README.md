@@ -1,7 +1,7 @@
 # BlueTeamReference
 攻防演练中防守方重点知识点整理，旨在方便平时看看，也在需要的时候有一个miniwiki  
   
-文章介绍：本文为攻防演练中防守方重点知识点整理，旨在方便平时看看，也在防守的时候有一个miniwiki  
+
 # 一、蓝队防守策略：  
 ### 工作流程概述  
 Hvv蓝队技战法：[https://www.freebuf.com/defense/391301.html](https://www.freebuf.com/defense/391301.html)  
