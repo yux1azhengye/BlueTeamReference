@@ -46,9 +46,11 @@ HW多人运动溯源及反制指北：[https://xz.aliyun.com/t/10268](https://xz
 记对cobalt strike的反制思路研究：[https://xz.aliyun.com/t/14464](https://xz.aliyun.com/t/14464)  
 红蓝对抗系列之浅谈蓝队反制红队的手法一二：[https://xz.aliyun.com/t/8385](https://xz.aliyun.com/t/8385)  
 安全红蓝对抗反制（反捕、画像）：[https://blog.csdn.net/u012206617/article/details/114581750](https://blog.csdn.net/u012206617/article/details/114581750)   
-蚁剑反制技术：[https://blog.csdn.net/Liuzixuan0207/article/details/131426375](https://blog.csdn.net/Liuzixuan0207/article/details/131426375)  
 防守实战-蜜罐反制之攻击链还原：[https://www.freebuf.com/defense/379601.html](https://www.freebuf.com/defense/379601.html)  
 红蓝对抗中的溯源反制实战：[https://www.secrss.com/articles/27611](https://www.secrss.com/articles/27611)  
+蚁剑反制技术：[https://blog.csdn.net/Liuzixuan0207/article/details/131426375](https://blog.csdn.net/Liuzixuan0207/article/details/131426375)  
+反制xray：[https://mp.weixin.qq.com/s/cddGshf9zhBK2TJgQi5vVA](https://mp.weixin.qq.com/s/cddGshf9zhBK2TJgQi5vVA)  
+反制goby：[https://mp.weixin.qq.com/s/EPQZs5eQ4LL--tao93cUfQ](https://mp.weixin.qq.com/s/EPQZs5eQ4LL--tao93cUfQ)  
 # 三、蓝队相关工具：  
 ！这里请自己注意验后门，有hash的验一下hash，没有hash的建议看下代码或者放虚拟机跑  
 ### 资产梳理&安全加固  
@@ -70,11 +72,11 @@ TrackAttacker（溯源红队）：[https://github.com/Bywalks/TrackAttacker](htt
 npscrack burp插件（针对nps）：[https://github.com/weishen250/npscrack](https://github.com/weishen250/npscrack)  
 JetBrains系列产品.idea钓鱼反制红队：[https://github.com/no-one-sec/idea-project-fish-exploit](https://github.com/no-one-sec/idea-project-fish-exploit)  
 伪造webshell钓鱼反制蚁剑：[https://github.com/shiyeshu/antSword-UnrealWebshell](https://github.com/shiyeshu/antSword-UnrealWebshell)  
-反制xray：[https://mp.weixin.qq.com/s/cddGshf9zhBK2TJgQi5vVA](https://mp.weixin.qq.com/s/cddGshf9zhBK2TJgQi5vVA)  
-反制goby：[https://mp.weixin.qq.com/s/EPQZs5eQ4LL--tao93cUfQ](https://mp.weixin.qq.com/s/EPQZs5eQ4LL--tao93cUfQ)  
 # 四、防守方参考案例：  
-2021HW参考|防守方经验总结：[https://blog.csdn.net/hackzkaq/article/details/114523440](https://blog.csdn.net/hackzkaq/article/details/114523440)  
-记一次曲折的钓鱼溯源反制：[https://xz.aliyun.com/t/11471](https://xz.aliyun.com/t/11471)  
-记一次攻防演练溯源实例：[https://www.freebuf.com/articles/web/341334.html](https://www.freebuf.com/articles/web/341334.html)  
-记一次蓝队溯源&应急响应：[https://www.we2shopping.com/blog/2634630/](https://www.we2shopping.com/blog/2634630/)  
-记一次hvv真实应急响应与攻击路径溯源：[https://cn-sec.com/archives/1093268.html](https://cn-sec.com/archives/1093268.html#google_vignette)  
+- 2021HW参考|防守方经验总结：[https://blog.csdn.net/hackzkaq/article/details/114523440(https://blog.csdn.net/hackzkaq/article/details/114523440)]  
+- 记一次HVV实战应急响应：[https://www.freebuf.com/articles/web/304131.html(https://www.freebuf.com/articles/web/304131.html)]  
+- 记一次应急响应到溯源入侵者：[https://www.freebuf.com/articles/web/289450.html(https://www.freebuf.com/articles/web/289450.html)]  
+- 记一次HVV真实应急响应与攻击路径溯源：[https://cn-sec.com/archives/1093268.html(https://cn-sec.com/archives/1093268.html)]
+- 记一次曲折的钓鱼溯源反制：[https://xz.aliyun.com/t/11471(https://xz.aliyun.com/t/11471)]
+- 记一次攻防演练溯源实例：[https://www.freebuf.com/articles/web/341334.html(https://www.freebuf.com/articles/web/341334.html)]
+- 记一次蓝队溯源&应急响应：[https://www.we2shopping.com/blog/2634630/(https://www.we2shopping.com/blog/2634630/)]
